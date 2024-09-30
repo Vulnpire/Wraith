@@ -1,6 +1,6 @@
-module github.com/hakluke/hakrawler
+module github.com/Vulnpire/wraith
 
-go 1.16
+go 1.22
 
 require (
 	github.com/PuerkitoBio/goquery v1.8.0 // indirect
